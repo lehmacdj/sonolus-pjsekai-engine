@@ -4,4 +4,6 @@ node_modules
 shared/src/level/bgm.mp3
 
 .dev
-dist
+/dist/*
+# Built engine data committed for OpenRhythm test fixtures
+!/dist/Engine*
